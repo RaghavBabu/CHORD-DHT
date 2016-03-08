@@ -1,2 +1,0 @@
-# CHORD-DHT
-# Chord-DHT
